@@ -11,7 +11,7 @@ This repository contains my notes from the Git and GitHub course.
 
 ## Notes
 
-[Notion](https://www.notion.so/Git-and-Github-83206b141de348c7a54652714be3a6d3?pvs=4)
+[Notion](https://jolly-caper-66e.notion.site/Git-and-Github-83206b141de348c7a54652714be3a6d3?pvs=4)
 
 ## Resources
 
